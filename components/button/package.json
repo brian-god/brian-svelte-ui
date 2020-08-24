@@ -1,0 +1,23 @@
+{
+  "name": "@brian-svelte/button",
+  "version": "1.0.0",
+  "description": "Svelte  UI -- Button",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brian-god/brian-svelte-ui.git"
+  },
+  "author": "brian",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@brian-svelte/common":"^1.0.0"
+  },
+  "devDependencies": {
+    "glob-cmd": "0.0.7",
+    "less": "^3.12.2"
+  }
+}
+
+  

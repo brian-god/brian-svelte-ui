@@ -1,0 +1,20 @@
+{
+  "name": "brian-svelte-ui",
+  "version": "1.0.0",
+  "description": "brian svelte ui",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brian-god/brian-svelte-ui.git"
+  },
+  "author": "brian",
+  "bugs": {
+    "url": "https://github.com/brian-god/brian-svelte-ui/issues"
+  },
+  "license": "Apache-2.0"
+}

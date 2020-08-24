@@ -1,0 +1,17 @@
+{
+  "name": "@brian-svelte/common",
+  "version": "1.0.0",
+  "description": "Svelte UI -common",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brian-god/brian-svelte-ui.git"
+  },
+  "author": "brian",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "svelte": "^3.0.0"
+  }
+}
