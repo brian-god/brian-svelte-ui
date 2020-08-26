@@ -9,6 +9,9 @@
     "type": "git",
     "url": "git+https://github.com/brian-god/brian-svelte-ui.git"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/" 
+ },
   "author": "brian",
   "license": "Apache-2.0",
   "dependencies": {
